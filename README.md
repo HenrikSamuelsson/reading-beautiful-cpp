@@ -9,3 +9,5 @@ The book Beautiful C++ can be purchased in various formats from different vendor
 The content presented in the book is related to the [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines). The book Beautiful C++ can be read first to get an introduction to the guidelines that then can studied further at this link.
 
 For ease of experimentation, all sample code is available on [Compiler Explorer](https://godbolt.org/z/cg30-ch0.0).
+
+[ISO C++](https://isocpp.org/) is a site with news, status, and discussions about standard C++.
